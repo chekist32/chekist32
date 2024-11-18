@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://via.placeholder.com/520x350"width="520" height="350">
+</div>
 
-<!--
-**chekist32/chekist32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+- 🔭 **Projects I’ve Created:**  
+  - [**SalmonDonate.com**](https://salmondonate.com) — An open-source, self-hosted, and non-custodial solution for receiving cryptocurrency donations.
+  - [**GoiPay**](https://goipay.github.io/) — A lightweight crypto payment processor microservice, designed for creating and processing cryptocurrency invoices via gRPC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Golang, JavaScript/TypeScript, Kotlin
+- **Frameworks:** React, Next.js, Spring, Quarkus
+- **Tools:** Docker, Git
+
+## 📫 Reach Me
+
+- **Simplex Chat:** [Link](https://simplex.chat/contact/#/?v=2-7&smp=smp%3A%2F%2FPtsqghzQKU83kYTlQ1VKg996dW4Cw4x_bvpKmiv8uns%3D%40smp18.simplex.im%2FGiBHxyxaLKswlSHDdB02JO-ofczHbmNB%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEApehzyqm3wgXcZODLKKVwHLpKwI0FqBJZXANcIwWVlxY%253D%26srv%3Dlyqpnwbs2zqfr45jqkncwpywpbtq7jrhxnib5qddtr6npjyezuwd3nqd.onion)  
+  ![Simplex Chat QR Code](https://via.placeholder.com/150)
+
+- **Session:** `055bc2dc4106e631a7b0fd70425609e33694884609b2fcb6a4e89d04d14c1e871a`  
+  ![Session QR Code](https://via.placeholder.com/150)
+
+  ## 💖 Support
+  If you appreciate my projects and want to support, you can do this via:
+  - [SalmonDonate Link](https://salmondonate.com/user/chekist32) (XMR Only)
+  - [Other Crypto]()
