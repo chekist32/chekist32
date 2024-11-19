@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/520x350">
-</div>
-
 ## 🌟 About Me
 
 - 🔭 **Projects I’ve Created:**  
