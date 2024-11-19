@@ -21,4 +21,4 @@
   ## 💖 Support
   If you appreciate my projects and want to support, you can do this via:
   - [SalmonDonate Link](https://salmondonate.com/user/chekist32) (XMR Only)
-  - [Other Crypto]()
+  - [Other Crypto](other_crypto.txt)
