@@ -17,6 +17,7 @@
 
 - **Session:** `055bc2dc4106e631a7b0fd70425609e33694884609b2fcb6a4e89d04d14c1e871a`  
   <img src="session_qr.png" alt="Session QR Code" width="150" height="150">
+- **PGP:** [BD484FA51E751D893C6E380BEF07B47810490AFC](chekist32.asc)
 
   ## 💖 Support
   If you appreciate my projects and want to support, you can do this via:
