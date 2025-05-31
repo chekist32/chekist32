@@ -17,6 +17,7 @@
 
 - **Email**: vladkra@proton.me
 - **PGP:** [BD484FA51E751D893C6E380BEF07B47810490AFC](chekist32.asc)
+- **Nostr:** npub1hpcf804fkcz9rv8x5xnyja3z67sfvzf8yc4qyj37ewj4qn9g4yxqumt9h9
 
 ## 💖 Support
 
